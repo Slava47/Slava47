@@ -27,6 +27,6 @@ Python-разработчик из Воронежа. Создаю телегра
 
 [<img src="https://img.shields.io/badge/Telegram-@BeefkaCl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/BeefkaCl)
 [<img src="https://img.shields.io/badge/Website-rudenko.tech-000000?style=for-the-badge&logo=google-chrome&logoColor=white">](https://rudenko.tech)
-[<img src="https://img.shields.io/badge/Email-email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](slavarudenko2007@gmail.com)
+[<img src="https://img.shields.io/badge/Email-slavarudenko2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:slavarudenko2007@gmail.com)
 
 
