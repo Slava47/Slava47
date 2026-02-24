@@ -14,15 +14,6 @@ Python-разработчик из Воронежа. Создаю телегра
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
-
-### Проекты
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slava47&repo=tea-bar-bot&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)](https://github.com/Slava47/tea-bar-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slava47&repo=greenlink_mvp&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)](https://github.com/Slava47/greenlink_mvp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slava47&repo=k8s-clickhouse&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)](https://github.com/Slava47/k8s-clickhouse)
 
 ---
 
@@ -34,10 +25,8 @@ Python-разработчик из Воронежа. Создаю телегра
 
 ### Контакты
 
-[<img src="https://img.shields.io/badge/Telegram-@slava47-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/slava47)
+[<img src="https://img.shields.io/badge/Telegram-@slava47-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/BeefkaCl)
 [<img src="https://img.shields.io/badge/Website-rudenko.tech-000000?style=for-the-badge&logo=google-chrome&logoColor=white">](https://rudenko.tech)
-[<img src="https://img.shields.io/badge/Email-email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vyacheslav.rudenko@example.com)
+[<img src="https://img.shields.io/badge/Email-email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](slavarudenko2007@gmail.com)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=Slava47&color=blue&style=flat-square&label=Просмотров+профиля)
