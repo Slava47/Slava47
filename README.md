@@ -22,7 +22,8 @@ Python-разработчик из Воронежа. Создаю телегра
 ![snake dark](https://github.com/Slava47/Slava47/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 ---
-
+### Достижения в SadServers
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 ### Контакты
 
 [<img src="https://img.shields.io/badge/Telegram-@BeefkaCl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/BeefkaCl)
